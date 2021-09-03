@@ -1,0 +1,16 @@
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\bin\Debug\Assignment 5.exe.config
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\bin\Debug\Assignment 5.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\bin\Debug\Assignment 5.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment 5.csprojAssemblyReference.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.welcomeForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment 5.exe
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment 5.pdb
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.EasyForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.LosingForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.WinnerForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.MediumForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.HardForm.resources
+F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.LegendaryForm.resources
