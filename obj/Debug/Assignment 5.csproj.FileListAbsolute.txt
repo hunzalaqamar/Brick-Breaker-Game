@@ -14,3 +14,20 @@ F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignme
 F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.MediumForm.resources
 F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.HardForm.resources
 F:\Uni Data\SPR2021\Software Construction and Development (Arslan Asif)\Assignment 5\obj\Debug\Assignment_5.LegendaryForm.resources
+C:\Users\Zombie\Desktop\BBG\bin\Debug\Assignment 5.exe.config
+C:\Users\Zombie\Desktop\BBG\bin\Debug\Assignment 5.exe
+C:\Users\Zombie\Desktop\BBG\bin\Debug\Assignment 5.pdb
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.EasyForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.HardForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.LegendaryForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.LosingForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.MediumForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.welcomeForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment_5.WinnerForm.resources
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment 5.exe
+C:\Users\Zombie\Desktop\BBG\obj\Debug\Assignment 5.pdb
